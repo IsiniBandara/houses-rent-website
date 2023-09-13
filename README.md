@@ -33,7 +33,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 2023-09-13 at 14 52 25" src="https://github.com/IsiniBandara/houses-rent-website/assets/67850663/91beab4c-43e9-4a41-ab54-6cb0c7f2122c">
-
 
 
