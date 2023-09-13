@@ -1,6 +1,23 @@
-# MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+# House Rentals Website (Angular)
+
+This is my first Angular app, a simple web application for finding and listing houses for rent. This README file provides an overview of the project, its features, and instructions on how to set it up and use it.
+
+
+## Features
+
+- List houses for rent.
+- Search and filter houses by location.
+- View details of each house, including images, descriptions, and contact information.
+
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) installed on your computer.
+- [Angular CLI](https://cli.angular.io/) installed globally.
+
 
 ## Development server
 
@@ -14,14 +31,9 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img width="1440" alt="Screenshot 2023-09-13 at 14 52 25" src="https://github.com/IsiniBandara/houses-rent-website/assets/67850663/91beab4c-43e9-4a41-ab54-6cb0c7f2122c">
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
